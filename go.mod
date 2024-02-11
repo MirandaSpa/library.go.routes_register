@@ -1,4 +1,4 @@
-module github.com/turispro/router_register
+module gitlab.sistemamiranda.ml/root/route-register
 
 go 1.21
 
