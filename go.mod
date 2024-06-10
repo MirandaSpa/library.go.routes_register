@@ -1,4 +1,4 @@
-module gitlab.sistemamiranda.ml/root/route_register
+module github.com/mirandaspa/library.go.routes_register
 
 go 1.21
 
